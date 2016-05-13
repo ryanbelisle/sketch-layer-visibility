@@ -11,7 +11,7 @@
         "identifier": "toggleLayers",
         "script": "plugin.cocoascript",
         "handler": "toggleLayersHandler",
-        "shortcut": "cmd /"
+        "shortcut": "cmd option /"
     }, {
         "name": "Show",
         "identifier": "showLayers",
